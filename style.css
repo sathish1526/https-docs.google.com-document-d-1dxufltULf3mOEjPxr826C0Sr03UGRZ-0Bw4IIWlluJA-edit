@@ -1,0 +1,33 @@
+.active {
+    border-radius: 8%;
+    font-weight: bold;
+    border: 1px solid blue;
+}
+.card {
+    margin: 1%;
+}
+
+.section-card {
+    font-size: xx-large;
+    padding-left: 2%;
+    color:blue;
+}
+
+.titlecard {
+    font-size: x-large;
+    padding-left: 2%;
+}
+
+.date-card {
+    font-size: larger;
+    padding-left: 2%;
+}
+
+.abstract-card {
+    padding-left: 2%;
+}
+
+.continueReading {
+    font-size: large;
+    padding-left: 2%
+}
